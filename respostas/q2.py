@@ -1,1 +1,3 @@
 # Crie um programa que exiba as seguintes informações, cada uma em uma linha.
+print("Ruan Carlos")
+print("Curso:Lincenciatura em Computação")
