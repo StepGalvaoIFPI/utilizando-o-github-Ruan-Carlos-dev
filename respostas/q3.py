@@ -1,4 +1,8 @@
-#Crie um programa que exiba as seguintes informações, cada uma em uma linha:
-print("Nome:Ruan Carlos")
-print("Curso:Lincenciatura em Computação")
-print("Faculdade: IFPI - Zona Sul")
+print("Nome:Ruan Carlos de Jesus Rodrigues ")
+print("idade: 21 anos")
+print("Cidade Natal: Teresina")
+print("Estado de Nascimento: Piaui ")
+
+
+
+
